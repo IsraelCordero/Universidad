@@ -1,0 +1,12 @@
+Nombre y Apellido: isaac
+Cargo: desarrollador
+Sueldo Bruto: 1500
+Descuento Salud: 105.00000000000001
+Descuento AFP: 180.0
+Liquido a Pagar: 1215.0
+Nombre y Apellido: cordero
+Cargo: desarrollador
+Sueldo Bruto: 2000
+Descuento Salud: 140.0
+Descuento AFP: 240.0
+Liquido a Pagar: 1620.0

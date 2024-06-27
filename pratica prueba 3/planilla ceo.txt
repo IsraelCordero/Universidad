@@ -1,0 +1,6 @@
+Nombre y Apellido: isra
+Cargo: ceo
+Sueldo Bruto: 1000
+Descuento Salud: 70.0
+Descuento AFP: 120.0
+Liquido a Pagar: 810.0
